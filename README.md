@@ -9,7 +9,7 @@ Student
 * ✉️  You can contact me at [mathijs.follon@gmail.com](mailto:mathijs.follon@gmail.com)
 * 🚀  I'm currently working on [BetterMt5 (a python library)](http://github.com/mathlon26/BetterMt5)
 * 🧠  I'm learning Laravel, C++ and C
-* 🤝  I'm open to collaborating on anything, just contact me!
+* 🤝  I'm open to collaborate on anything, just contact me!
 * ⚡  If you need someone for a project, don't hesitate to contact me!
 
 ### Skills
