@@ -7,7 +7,7 @@ Student
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [mfollon.com](http://ww.mfollon.com)
 * ✉️  You can contact me at [mathijs.follon@gmail.com](mailto:mathijs.follon@gmail.com)
-* 🚀  I'm currently working on [some private projects ;)](http://github.com/mathlon26?tab=repositories)
+* 🚀  I'm currently working on [BetterMt5 (a python library))](http://github.com/mathlon26/BetterMt5)
 * 🧠  I'm learning Laravel, C++ and C
 * 🤝  I'm open to collaborating on anything, just contact me!
 * ⚡  If you need someone for a project, don't hesitate to contact me!
