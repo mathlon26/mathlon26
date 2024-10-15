@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student
 -------
-* 🌐  My [Portfolio](https:://www.mfollon.com)
+* 🌐  My [Portfolio](https://www.mfollon.com)
 * 🌍  I'm based in Belgium
 * ✉️  You can contact me at [mathijs.follon@gmail.com](mailto:mathijs.follon@gmail.com)
 * 🚀  I'm currently working on [BetterMt5 (a python library)](http://github.com/mathlon26/BetterMt5)
